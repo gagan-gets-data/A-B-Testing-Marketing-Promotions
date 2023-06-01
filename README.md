@@ -26,7 +26,7 @@ Key insights from the analysis -
 
 - Sales distribution acrsoss 3 different promotions
 
-![7](https://github.com/gagan-gets-data/A-B-Testing-Marketing-Promotions/assets/134737002/8c03dfdc-fe72-4c21-ac0c-f47fbdd7472d)
+    ![7](https://github.com/gagan-gets-data/A-B-Testing-Marketing-Promotions/assets/134737002/8c03dfdc-fe72-4c21-ac0c-f47fbdd7472d)
 
 - Breakdowns of market sizes across different promotions
 ![8](https://github.com/gagan-gets-data/A-B-Testing-Marketing-Promotions/assets/134737002/c94b5659-abf3-4b38-90dd-4e1e47266d19)
