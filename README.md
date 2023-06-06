@@ -1,6 +1,6 @@
 # A/B-Testing-Marketing-Promtions
 
-This case study is used to implement understand which promotion was the most effective in marketing?
+This case study is used to implement analysis on which promotion was the most effective in marketing?
 
 ## Scenario:
 
